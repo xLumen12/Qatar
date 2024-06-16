@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://tate-stellar.org"
+  to = "https://hustlers-university.ca/"
+  status = 301
+  force = true
