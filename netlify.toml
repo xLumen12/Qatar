@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://qataren.org/"
+  from = "qataren.org/"
   to = "https://qatarenergy.qa/en/Pages/vHome.aspx#"
   status = 301
   force = true
