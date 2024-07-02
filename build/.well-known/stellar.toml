@@ -7,7 +7,7 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="QatarEnergy"
 ORG_DESCRIPTION="Qatar Energy Token (QEN) pioneering the Future of Energy Through Stellar Blockchain Innovation. This asset offers a dual advantage: not only does it drive positive change in Qatar's energy sector, but it also presents significant economic benefits for investors. By leveraging blockchain technology to optimize energy processes, QEN token streamlines operations and lowers transaction costs."
-ORG_LOGO="https://i.ibb.co/FJQH2Jn/image.png"
+ORG_LOGO="https://ibb.co/ZdrZz7q"
 
 [[PRINCIPALS]]
 name="QatarEnergyToken"
@@ -21,7 +21,7 @@ issuer="GCDT5352ZUUT7PZU2OWZGRHMRQ5CRSQJJ5R2NTWF3GK4JKB5APAATAYK"
 anchor_asset_type="crypto"
 name="QatarEnergy"
 desc=" Qatar Energy Token (QEN) pioneering the Future of Energy Through Stellar Blockchain Innovation. This asset offers a dual advantage: not only does it drive positive change in Qatar's energy sector, but it also presents significant economic benefits for investors. By leveraging blockchain technology to optimize energy processes, QEN token streamlines operations and lowers transaction costs."
-image="https://i.ibb.co/FJQH2Jn/image.png"
+image="https://ibb.co/ZdrZz7q"
 fixed_number=1000000
 max_number=1000000
 is_unlimited=false
